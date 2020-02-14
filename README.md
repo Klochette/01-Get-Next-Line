@@ -4,5 +4,4 @@ Premier projet de l'ecole 42. Cet exercice permet de consolider les acquis de la
 
 # Get Next Line
 
-- 2eme projet pour l'école 42 : les variables statiques.
-- Fonction en C qui permet de lire une ligne terminée par un retour à la ligne depuis un file descriptor.
+Ce projet consiste à coder une fonction permettant de lire le contenu d'un fichier ligne par ligne. Car qu'il s'agisse d'un fichier, de l'entrée standard, ou même d'une connexion réseau, il est souvent nécessaire d'avoir recours à ce type de fonction.
